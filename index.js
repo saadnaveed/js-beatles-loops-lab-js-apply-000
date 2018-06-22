@@ -6,4 +6,6 @@ function theBeatlesPlay(musicians, instruments) {
     
     plays.push(string)
   }
+  
+  return plays;
 }
